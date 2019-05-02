@@ -20,7 +20,7 @@
 </nav>
 
 <div id="top-section" style="height: 650px">
-    <img src="../images/bright" alt="Image of a nice looking bedroom" title="Radiant Ochre bedroom" class="top-image">
+    <img src="../images/bright.jpg" alt="Image of a nice looking bedroom" title="Radiant Ochre bedroom" class="top-image">
     <div id="contact-container" class="flex-column "  style="position:absolute;top:8%;left:5%;background: rgba(31, 30, 30, 0.91);color: white;">
         <h1 class="orange-font-color center-text">CONTACT US</h1>
         <div class="contact-content-container" style="width:100%">
