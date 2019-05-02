@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c17981aa-5d6c-40f7-963a-27cb767f77ba" name="Default Changelist" comment="" />
+    <list default="true" id="c17981aa-5d6c-40f7-963a-27cb767f77ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/HTML/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/HTML/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/HTML/eat.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/HTML/eat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/HTML/meet.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/HTML/meet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/HTML/sleep.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/HTML/sleep.php" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hotel/HTML/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-138" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +50,17 @@
             <path>
               <item name="hotelradiant" type="b2602c69:ProjectViewProjectNode" />
               <item name="hotelradiant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotelradiant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotelradiant" type="462c0819:PsiDirectoryNode" />
+              <item name="Hotel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotelradiant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotelradiant" type="462c0819:PsiDirectoryNode" />
+              <item name="Hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -66,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556791995980</updated>
-      <workItem from="1556792002409" duration="241000" />
+      <workItem from="1556792002409" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1556792235513</created>
@@ -75,14 +107,29 @@
       <option name="project" value="LOCAL" />
       <updated>1556792235514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1556792317588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556792317588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1556793305495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556793305495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241000" />
+    <option name="totallyTimeSpent" value="683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -119,6 +166,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Hotel/HTML/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138" />
+      </provider>
+    </entry>
   </component>
 </project>

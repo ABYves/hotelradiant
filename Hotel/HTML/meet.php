@@ -19,7 +19,7 @@
             <li class="nav-list-item"><a class="nav-link" href="sleep.php">Sleep</a></li>
             <li class="nav-list-item"><a class="nav-link" href="meet.php"><i class="currentPage">Meetings</i></a></li>
             <li class="nav-list-item"><a class="nav-link" href="contact.php">Contact</a></li>
-            <li class="nav-list-item"><a class="nav-link" href="..Shop\PHP\index.html">shop</a></li>
+            <li class="nav-list-item"><a class="nav-link" href="Shop\HTML\index.php">shop</a></li>
         </ul>
     </nav>
     <div id="top-section" >
